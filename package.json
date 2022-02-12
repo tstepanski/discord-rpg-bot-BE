@@ -1,0 +1,15 @@
+{
+  "name": "discord-rpg-bot-backend",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "@azure/cosmos": "latest"
+  },
+  "devDependencies": {
+    "ts-loader": "latest",
+    "ts-node": "latest",
+    "webpack-cli": "latest"
+  }
+}
